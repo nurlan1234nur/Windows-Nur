@@ -1,2 +1,0 @@
-﻿# Windows-Nur
-namaig unsh
